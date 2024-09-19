@@ -5,5 +5,3 @@ Saving the file simply writes the new text to your hard disk. We need to tell gi
 back to the repository on GitHub so the rest of our team can see them (this is "pushing to origin").
 
 Make changes with the Web IDE!
-
-.
