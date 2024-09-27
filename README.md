@@ -8,4 +8,4 @@ Make changes with the Web IDE!
 
 Another remote commit was made that i want to fetch to my local repository and pull if there are no conflicts. And now I've edited this file on the `main`-branch.
 
-And now I've edited this file on the `main`-branch. **I add some text to the same line but now on `main`, will this give me a conflict?**
+**I add some text to the same line but now on `main`, will this give me a conflict?**
